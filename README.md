@@ -25,7 +25,7 @@ After downloading the Repo, and having everything of the **Requirements** follow
 ```sh
 npm install
 ```
-  You will see that, now there is a folder called node_modules,which contains all the dependancies this project requires.
+- You will see that, now there is a folder called node_modules,which contains all the dependancies this project requires.
   
  ```sh
 npm run
